@@ -1,0 +1,8 @@
+ra...@...:~/go/src/Geekbrains/Go2/les2 (master)$ ls
+task1.go
+ra...@...:~/go/src/Geekbrains/Go2/les2 (master)$ GOOS=windows go build task1.go 
+ra...@...:~/go/src/Geekbrains/Go2/les2 (master)$ ls
+task1.exe  task1.go
+ra...@...:~/go/src/Geekbrains/Go2/les2 (master)$ file task1.exe 
+task1.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
+ramin@raminho
